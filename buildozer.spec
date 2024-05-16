@@ -37,7 +37,7 @@ version = 0.404
 
 # (list) Application requirements
 # comma separated e.g. requirements = sqlite3,kivy
-requirements = python3,kivy,sdl2_ttf,pillow, speechrecognition,pyaudio
+requirements = python3,kivy==2.1.0,sdl2_ttf,pillow, speechrecognition,pyaudio, kivymd, kivy_garden
 
 # (str) Custom source folders for requirements
 # Sets custom source for any requirements with recipes
